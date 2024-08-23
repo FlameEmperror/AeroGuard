@@ -19,7 +19,7 @@ This innovative application provides an advanced tool for scenarios requiring pr
 
 ## Team
 
-![Team Image]("\src\img\Team.jpg")
+![Team Image]("/src/img/Team.jpg")
 
 ## Conclusion
 
