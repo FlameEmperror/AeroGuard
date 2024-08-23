@@ -18,7 +18,7 @@ This innovative application provides an advanced tool for scenarios requiring pr
 - **Versatile Applications:** Suitable for law enforcement, military operations, security, and transportation.
 
 ## Documentation
-Please refer to [Documentation](src/Docs/ECS.pdf) and [SRS](src/Docs/ECS.pptx) for Documentation
+Please refer to [Documentation](src/Docs/ECS.pdf) and [Presentation](src/Docs/ECS.pptx) for Documentation and a thorough explanation of the project.
 
 ## Team
 
